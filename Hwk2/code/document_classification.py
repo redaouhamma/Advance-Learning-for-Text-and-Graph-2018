@@ -9,7 +9,7 @@ from sklearn.naive_bayes import MultinomialNB
 ##################################
 # data loading and preprocessing #
 ################################## 
-#Modified by Reda Ouhamma
+#Proprety of Reda Ouhamma
 
 path_to_data = "data"
 
